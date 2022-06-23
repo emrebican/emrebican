@@ -1,10 +1,10 @@
 <div>
 <img src="https://camo.githubusercontent.com/c1c93f9eb67d41cd3ab567824405631bbec58b7d9ea37496a485cb3b3a71d5a2/68747470733a2f2f696e74726f2e727573746272696467652e636f6d2f696d672f6665727269732e676966" align="center" style="width: 50%" />
-  
+</div>
 
 <h1 align="right">Hi 👋, I'm Emre</h1>
 <h3 align="right">A passionate frontend developer from Turkey</h3>
-</div>
+
 
 - 👀 I’m interested in FrontEnd Dev.
 - ⚡I’m currently learning React 🔬📚📘  
