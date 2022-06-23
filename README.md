@@ -5,7 +5,6 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-### <div align="center">I'm Emre, a FrontEnd Developer 👨‍💻 🚀</div>
 - 👀 I’m interested in FrontEnd Dev.
 - ⚡I’m currently learning React 🔬📚📘  
 - 📭 Mail: emrebican11@hotmail.com  
