@@ -13,10 +13,9 @@
 <br/>  
 
 
-## My Skill Set  
+## Tech Stack  
 
-### Frontend  
-<div align="center">  
+<div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -33,7 +32,7 @@
 
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/https://github.com/emrebican" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -54,28 +53,12 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=emrebican&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <!---
 emrebican/emrebican is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
