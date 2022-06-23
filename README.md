@@ -31,8 +31,7 @@
 <br/>  
 
 ## Currently Learning
-<div align="left">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+<div align="left" background="red">
 <img style="margin: 10px" src="https://icon-library.com/images/react-icon/react-icon-29.jpg" alt="React" height="50" />
 </div>
 
