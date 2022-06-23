@@ -1,4 +1,4 @@
-<div style="height: 10%">
+<div style="height: 1%">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
