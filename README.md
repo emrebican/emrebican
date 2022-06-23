@@ -1,4 +1,4 @@
-<div>
+<div style="height"200px">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
@@ -31,7 +31,7 @@
 <br/>  
 
 ## Currently Learning
-<div align="left" background="red">
+<div align="left">
 <img style="margin: 10px" src="https://icon-library.com/images/react-icon/react-icon-29.jpg" alt="React" height="50" />
 </div>
 
