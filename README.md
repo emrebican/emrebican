@@ -57,21 +57,19 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=emrebican&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=emrebican&&style=flat-square" align="center" />
-</div>  
-  
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=emrebican&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=emrebican&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emrebican&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=emrebican&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=emrebican&&style=flat-square" align="center" />
+</div>  
+
 
 <br/>  
 
