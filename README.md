@@ -54,7 +54,7 @@
 </div>  
 
 ## Projects...
-<a href="https://reactmovielistapp.netlify.app/" target="blank">React Movie App</a>
+<a href="https://reactmovielistapp.netlify.app/" target="_blank">React Movie App</a>
   
 
 <br/>  
