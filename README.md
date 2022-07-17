@@ -62,7 +62,7 @@
 <br />
 <a href="https://emrebican.github.io/Countdown-timer/" target="_blank">New Year Countdown</a>
 <br />
-<a href="https://github.com/emrebican/recipe-app" target="_blank">New Recipe App</a>
+<a href="https://emrebican.github.io/recipe-app/" target="_blank">New Recipe App</a>
   
 
 <br/>  
