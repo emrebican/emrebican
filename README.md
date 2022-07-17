@@ -55,6 +55,7 @@
 
 ## Projects...
 <a href="https://reactmovielistapp.netlify.app/" target="_blank">React Movie App</a>
+<a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
   
 
 <br/>  
