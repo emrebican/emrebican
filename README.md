@@ -56,7 +56,7 @@
 # Projects...
 <a href="https://reactmovielistapp.netlify.app/" target="_blank">Movie App</a>
 <br />
-<a href="https://reacttenziesgame.netlify.app/" target="_blank">Tenzies Game</a>
+<a href="https://tenziesgameapp.netlify.app/" target="_blank">Tenzies Game</a>
 <br />
 <a href="https://emrebican.github.io/kitchen-s-Menu-JS/" target="_blank">Kitchen Website</a>
 <br />
