@@ -65,6 +65,8 @@
 <a href="https://emrebican.github.io/recipe-app/" target="_blank">New Recipe App</a>
 <br />
 <a href="https://reactmemegeneratorapp.netlify.app/" target="_blank">Meme Generator App</a>
+<br />
+<a href="https://happyweatherapp.netlify.app/" target="_blank">Happy Weather App</a>
   
 
 <br/>  
