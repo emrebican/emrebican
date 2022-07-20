@@ -68,7 +68,7 @@
 <a href="https://emrebican.github.io/Countdown-timer/" target="_blank">New Year Countdown</a>
 </li>
 <li>
-<a href="https://emrebican.github.io/recipe-app/" target="_blank">New Recipe App</a>
+<a href="https://emrebican.github.io/recipe-app/" target="_blank">Recipe App</a>
 </li>
 <li>
 <a href="https://reactmemegeneratorapp.netlify.app/" target="_blank">Meme Generator App</a>
