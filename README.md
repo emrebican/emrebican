@@ -54,20 +54,29 @@
 </div>  
 
 # Projects...
+<ol>
+<li>
 <a href="https://reactmovielistapp.netlify.app/" target="_blank">Movie App</a>
-<br />
+</li>
+<li>
 <a href="https://tenziesgameapp.netlify.app/" target="_blank">Tenzies Game</a>
-<br />
+</li>
+<li>
 <a href="https://emrebican.github.io/kitchen-s-Menu-JS/" target="_blank">Kitchen Website</a>
-<br />
+</li>
+<li>
 <a href="https://emrebican.github.io/Countdown-timer/" target="_blank">New Year Countdown</a>
-<br />
+</li>
+<li>
 <a href="https://emrebican.github.io/recipe-app/" target="_blank">New Recipe App</a>
-<br />
+</li>
+<li>
 <a href="https://reactmemegeneratorapp.netlify.app/" target="_blank">Meme Generator App</a>
-<br />
+</li>
+<li>
 <a href="https://happyweatherapp.netlify.app/" target="_blank">Happy Weather App</a>
-  
+</li>
+</ol>
 
 <br/>  
 
