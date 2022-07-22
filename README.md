@@ -76,6 +76,7 @@
 <li>
 <a href="https://happyweatherapp.netlify.app/" target="_blank">Happy Weather App</a>
 </li>
+<li>
 <a href="https://silly-vacherin-0888ee.netlify.app/" target="_blank">Quiz App</a>
 </li>
 </ol>
