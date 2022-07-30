@@ -80,7 +80,7 @@
 <a href="https://react-quiz-appbasic.netlify.app/" target="_blank">Quiz App</a>
 </li>
 <li>
-<a href="https://react-mui-shoppingapp.netlify.app/" target="_blank"Shopping App(React-MUI)</a>
+<a href="https://react-mui-shoppingapp.netlify.app/" target="_blank">Shopping App(React-MUI)</a>
 </li>
 </ol>
 
