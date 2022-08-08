@@ -84,6 +84,9 @@
 <li>
 <a href="https://react-mui-shoppingapp.netlify.app/" target="_blank">Shopping App(React-MUI)</a>
 </li>
+<li>
+<a href="https://shoppingapp-react-ts.netlify.app/" target="_blank">Shopping App(React-TypeScript)</a>
+</li>
 </ol>
 
 <br/>  
