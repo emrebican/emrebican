@@ -58,7 +58,7 @@
 # Projects...
 <ol>
 <li>
-<a href="https://reactmovielistapp.netlify.app/" target="_blank">Movie App</a>
+<a href="https://react-movielistapp.netlify.app/" target="_blank">Movie App</a>
 </li>
 <li>
 <a href="https://tenziesgameapp.netlify.app/" target="_blank">Tenzies Game</a>
