@@ -55,13 +55,9 @@
 </a>  
 </div>  
 
-# Last One
+# Last Project
 
-<ol>
-<li>
 <a href="https://react-mui-bookshelf.netlify.app/" target="_blank">Book Shelf App</a>
-</li>
-</ol>
 
 # Projects...
 <ol>
