@@ -57,14 +57,14 @@
 </div>  
 
 # My Favourites
-<p float="left" style="width: 50%">
+<p float="left" style="width: 40%">
   
   [<img src="https://i.im.ge/2022/08/18/OsSxvp.img-1.jpg" width="40%">](https://react-mui-bookshelf.netlify.app/)
   
   [<img src="https://i.im.ge/2022/08/18/OsSjSX.bookshelf.jpg">](https://github.com/emrebican/BookShelf)
 </p>
 
-<p float="right" style="width: 50%">
+<p float="right" style="width: 40%">
   
   [<img src="https://i.im.ge/2022/08/18/OsqLaF.home-page.jpg" width="40%">](https://react-movielistapp.netlify.app/) 
   
