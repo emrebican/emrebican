@@ -77,13 +77,10 @@
     <table>
 	    <tr>
     	    <td style="padding:10px">
-        	    <img src="img/image1.png" width="200"/>
+        	    [<img src="https://i.im.ge/2022/08/18/OsSxvp.img-1.jpg" width="50%">](https://react-mui-bookshelf.netlify.app/)
       	    </td>
             <td style="padding:10px">
-            	<img src="img/image2.png" width="300"/>
-            </td>
-            <td style="padding:10px">
-            	<img src="img/image3.png" width="400"/>
+            	[<img src="https://i.im.ge/2022/08/18/OsqLaF.home-page.jpg" width="50%">](https://react-movielistapp.netlify.app/)
             </td>
         </tr>
     </table>
