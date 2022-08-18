@@ -56,9 +56,21 @@
 </a>  
 </div>  
 
-# Last Project
+# My Favourites
+<ul>
+<li>
+
+[<img src="https://i.im.ge/2022/08/18/OsSjSX.bookshelf.jpg">](https://react-mui-bookshelf.netlify.app/)
 
 <a href="https://react-mui-bookshelf.netlify.app/" target="_blank">Book Shelf App</a>
+</li>
+<li>
+<a href="https://react-movielistapp.netlify.app/" target="_blank">Movie App</a>
+</li>
+<li>
+<a href="https://react-mui-bookshelf.netlify.app/" target="_blank">Book Shelf App</a>
+</li>
+</ul>
 
 # Projects...
 <ol>
