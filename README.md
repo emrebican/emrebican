@@ -72,6 +72,19 @@
 [<img src="https://i.im.ge/2022/08/18/Osq01X.movies.jpg">](https://github.com/emrebican/react-movie-app)
 </div>
   </div>
+  
+  
+  <div style="display:flex">
+     <div style="flex:1;padding-right:10px;">
+          <img src="img/image1.png" width="200"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="img/image2.png" width="300"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="img/image3.png" width="400"/>
+     </div>
+</div>
 
 # Projects...
 <ol>
