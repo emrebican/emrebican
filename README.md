@@ -57,28 +57,8 @@
 </div>  
 
 # My Favourites
-  
-  <div id="image-table">
-    <table>
-	    <tr style="border: none; background: black;">
-    	    <td style="border: none;">
-		    
-[<img src="https://i.im.ge/2022/08/18/OsSxvp.img-1.jpg">](https://react-mui-bookshelf.netlify.app/)
-		    
-[<img src="https://i.im.ge/2022/08/18/OsSjSX.bookshelf.jpg">](https://github.com/emrebican/BookShelf)
-      	    </td>
-            <td>
-		    
-[<img src="https://i.im.ge/2022/08/18/OsqLaF.home-page.jpg">](https://react-movielistapp.netlify.app/)
-		    
-[<img src="https://i.im.ge/2022/08/18/Osq01X.movies.jpg">](https://github.com/emrebican/react-movie-app)
-            </td>
-        </tr>
-    </table>
-</div>
 
 |[<img src="https://i.im.ge/2022/08/18/OsSxvp.img-1.jpg">](https://react-mui-bookshelf.netlify.app/)|[<img src="https://i.im.ge/2022/08/18/OsqLaF.home-page.jpg">](https://react-movielistapp.netlify.app/)|
-|:-:|:-:|
 |[<img src="https://i.im.ge/2022/08/18/OsSjSX.bookshelf.jpg">](https://github.com/emrebican/BookShelf)|[<img src="https://i.im.ge/2022/08/18/Osq01X.movies.jpg">](https://github.com/emrebican/react-movie-app)|
 
 # Projects...
