@@ -57,32 +57,17 @@
 </div>  
 
 # My Favourites
-<div style="display:flex">
-  <div style="flex:1;padding-right:10px;">
-
-[<img src="https://i.im.ge/2022/08/18/OsSxvp.img-1.jpg" width="50%">](https://react-mui-bookshelf.netlify.app/)
-  
-[<img src="https://i.im.ge/2022/08/18/OsSjSX.bookshelf.jpg">](https://github.com/emrebican/BookShelf)
-  </div>
-  
-<div style="flex:1;padding-right:10px;">
-  
-[<img src="https://i.im.ge/2022/08/18/OsqLaF.home-page.jpg" width="50%">](https://react-movielistapp.netlify.app/) 
-  
-[<img src="https://i.im.ge/2022/08/18/Osq01X.movies.jpg">](https://github.com/emrebican/react-movie-app)
-</div>
-  </div>
   
   <div id="image-table">
     <table>
 	    <tr>
-    	    <td style="padding:10px">
+    	    <td>
 		    
 [<img src="https://i.im.ge/2022/08/18/OsSxvp.img-1.jpg">](https://react-mui-bookshelf.netlify.app/)
 		    
 [<img src="https://i.im.ge/2022/08/18/OsSjSX.bookshelf.jpg">](https://github.com/emrebican/BookShelf)
       	    </td>
-            <td style="padding:10px">
+            <td>
 		    
 [<img src="https://i.im.ge/2022/08/18/OsqLaF.home-page.jpg">](https://react-movielistapp.netlify.app/)
 		    
