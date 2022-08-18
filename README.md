@@ -57,18 +57,20 @@
 </div>  
 
 # My Favourites
-<div align="left">
+<div style="display: flex;">
+<div>
   
   [<img src="https://i.im.ge/2022/08/18/OsSxvp.img-1.jpg" width="50%">](https://react-mui-bookshelf.netlify.app/)
   
   [<img src="https://i.im.ge/2022/08/18/OsSjSX.bookshelf.jpg">](https://github.com/emrebican/BookShelf)
 </div>
 
-<div align="right">
+<div>
   
   [<img src="https://i.im.ge/2022/08/18/OsqLaF.home-page.jpg" width="50%">](https://react-movielistapp.netlify.app/) 
   
   [<img src="https://i.im.ge/2022/08/18/Osq01X.movies.jpg">](https://github.com/emrebican/react-movie-app)
+</div>
 </div>
 
 # Projects...
