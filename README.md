@@ -60,7 +60,7 @@
 <p>
 <p float="left">
   
-  [<img src="https://i.im.ge/2022/08/18/OsSxvp.img-1.jpg" width="50%"">](https://react-mui-bookshelf.netlify.app/)
+  [<img src="https://i.im.ge/2022/08/18/OsSxvp.img-1.jpg" width="50%">](https://react-mui-bookshelf.netlify.app/)
   
   [<img src="https://i.im.ge/2022/08/18/OsSjSX.bookshelf.jpg">](https://github.com/emrebican/BookShelf)
   
