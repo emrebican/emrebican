@@ -73,17 +73,20 @@
 </div>
   </div>
   
-  
-  <div style="display:flex">
-     <div style="flex:1;padding-right:10px;">
-          <img src="img/image1.png" width="200"/>
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src="img/image2.png" width="300"/>
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src="img/image3.png" width="400"/>
-     </div>
+  <div id="image-table">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="img/image1.png" width="200"/>
+      	    </td>
+            <td style="padding:10px">
+            	<img src="img/image2.png" width="300"/>
+            </td>
+            <td style="padding:10px">
+            	<img src="img/image3.png" width="400"/>
+            </td>
+        </tr>
+    </table>
 </div>
 
 # Projects...
