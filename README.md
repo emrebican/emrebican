@@ -59,15 +59,15 @@
 # My Favourites
   
   <div id="image-table" style="padding:0px;">
-    <table style="padding:0px;">
-	    <tr style="padding:0px;">
-    	    <td style="padding:0px;">
+    <table style="padding:0px; margin: 0px;">
+	    <tr style="padding:0px; margin: 0px">
+    	    <td style="padding:0px; margin: 0px">
 		    
 [<img src="https://i.im.ge/2022/08/18/OsSxvp.img-1.jpg">](https://react-mui-bookshelf.netlify.app/)
 		    
 [<img src="https://i.im.ge/2022/08/18/OsSjSX.bookshelf.jpg">](https://github.com/emrebican/BookShelf)
       	    </td>
-            <td style="padding:0px;">
+            <td style="padding:0px; margin: 0px">
 		    
 [<img src="https://i.im.ge/2022/08/18/OsqLaF.home-page.jpg">](https://react-movielistapp.netlify.app/)
 		    
