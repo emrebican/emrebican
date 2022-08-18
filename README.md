@@ -60,8 +60,8 @@
   
   <div id="image-table">
     <table>
-	    <tr>
-    	    <td>
+	    <tr style="border: none; background: black;">
+    	    <td style="border: none;">
 		    
 [<img src="https://i.im.ge/2022/08/18/OsSxvp.img-1.jpg">](https://react-mui-bookshelf.netlify.app/)
 		    
