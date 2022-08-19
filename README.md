@@ -58,7 +58,7 @@
 
 # My Favourites
 
-|[<img src="https://i.hizliresim.com/gebxns0.jpg">](https://react-mui-bookshelf.netlify.app/)|[<img src="https://i.hizliresim.com/phsfdeu.jpg">](https://react-movielistapp.netlify.app/)|
+|[<img src="https://i.hizliresim.com/gebxns0.jpg">](https://react-mui-bookshelf.netlify.app/)|[<img src="https://i.hizliresim.com/g5onmj8.jpg">](https://react-movielistapp.netlify.app/)|
 |:-:|:-:|
 |[<img src="https://i.hizliresim.com/phsfdeu.jpg">](https://github.com/emrebican/BookShelf)|[<img src="https://i.hizliresim.com/es3sjuo.jpg">](https://github.com/emrebican/react-movie-app)|
 
