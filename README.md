@@ -104,7 +104,7 @@
 <a href="https://react-mui-bookshelf.netlify.app/" target="_blank">Book Shelf App</a>
 </li>
 <li>
-<a href="https://weather-app-challengesio.netlify.app/" target="_blank">Weather App(for DevChallenges.io) App</a>
+<a href="https://weather-app-challengesio.netlify.app/" target="_blank">Weather App(for DevChallenges.io)</a>
 </li>
 </ol>
 
