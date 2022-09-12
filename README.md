@@ -45,7 +45,6 @@
 <div align="left">
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="TypeScript" height="50" />
   <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" height="50" />
-</div>
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" alt="Nextjs" height="50" />
 </div>
 
