@@ -107,6 +107,10 @@
 <li>
 <a href="https://weather-app-challengesio.netlify.app/" target="_blank">Weather App(for DevChallenges.io)</a>
 </li>
+</li>
+<li>
+<a href="https://world-rank-omega.vercel.app/" target="_blank">World Rank(for DevChallenges.io)</a>
+</li>
 </ol>
 
 <br/>  
