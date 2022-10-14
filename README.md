@@ -111,6 +111,9 @@
 <li>
 <a href="https://world-rank-omega.vercel.app/" target="_blank">World Rank(for DevChallenges.io)</a>
 </li>
+<li>
+<a href="https://firebase-auth-sepia.vercel.app/" target="_blank">Firebase NextJS Auth App</a>
+</li>
 </ol>
 
 <br/>  
