@@ -1,5 +1,5 @@
 <div>
-<img src="https://camo.githubusercontent.com/c1c93f9eb67d41cd3ab567824405631bbec58b7d9ea37496a485cb3b3a71d5a2/68747470733a2f2f696e74726f2e727573746272696467652e636f6d2f696d672f6665727269732e676966" align="center" style="width: 50%" />
+<img src="https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" align="center" style="width: 50%" />
 </div>
 
 <h1 align="right">Hi 👋, I'm Emre</h1>
@@ -36,6 +36,7 @@
 <img style="margin: 10px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" alt="Sass" height="50" />  
 <img style="margin: 10px" src="https://material-ui.com/static/logo.png" alt="mui" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="figma" height="50" />
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" height="50" />
 </div>
 
 
@@ -44,7 +45,8 @@
 ## Currently Learning
 <div align="left">
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="TypeScript" height="50" />
-  <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" height="50" />
+<img style="margin: 10px" src="https://testing-library.com/img/octopus-128x128.png" alt="RTL" height="50" />
+<img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="jest" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" alt="Nextjs" height="50" />
 </div>
 
