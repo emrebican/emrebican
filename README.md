@@ -37,7 +37,7 @@
 <img style="margin: 10px" src="https://material-ui.com/static/logo.png" alt="mui" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="figma" height="50" />
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" height="50" />
-<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" height="50" />
+<img style="margin: 10px" src="https://vasterra.com/blog/wp-content/uploads/2021/08/Tailwind-img.png" alt="tw" height="50" />
 </div>
 
 
@@ -48,7 +48,6 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="TypeScript" height="50" />
 <img style="margin: 10px" src="https://testing-library.com/img/octopus-128x128.png" alt="RTL" height="50" />
 <img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="jest" height="50" />
-<img style="margin: 10px" src="https://vasterra.com/blog/wp-content/uploads/2021/08/Tailwind-img.png" alt="tw" height="50" />
 </div>
 
 <br />
