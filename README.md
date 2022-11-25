@@ -37,6 +37,7 @@
 <img style="margin: 10px" src="https://material-ui.com/static/logo.png" alt="mui" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="figma" height="50" />
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" height="50" />
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.png" alt="Redux" height="50" />
 </div>
 
 
