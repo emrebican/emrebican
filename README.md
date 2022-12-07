@@ -9,7 +9,7 @@
 - 👀 I’m interested in FrontEnd Dev.
 - ⚡I’m currently learning React 🔬📚📘  
 - 📭 Mail: emrebican11@hotmail.com
-- <a href="https://emrebican.github.io/Personal-Portfolio/" style="color: black">🤖 **PortFolio**</a>
+- <a href="https://my-portfolio-kappa-brown.vercel.app/" style="color: black">🤖 **PortFolio**</a>
   
 
 <br/>  
