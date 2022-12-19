@@ -48,6 +48,7 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="TypeScript" height="50" />
 <img style="margin: 10px" src="https://testing-library.com/img/octopus-128x128.png" alt="RTL" height="50" />
 <img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="jest" height="50" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="angular" height="50" />
 </div>
 
 <br />
